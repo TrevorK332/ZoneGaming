@@ -53,9 +53,9 @@ export default function Products() {
                 {products ? products.map((product) => {
                     return (
                         <>
-                            {/*<div className="section trending">*/}
-                            {/*    <div className="container">*/}
-                            {/*        <div className="row">*/}
+                            <div className="section trending">
+                                <div className="container">
+                                    <div className="row">
                                         <div className="col-lg-3 col-md-6">
                                             <div className="cards">
                                                 <div className="thumb">
@@ -70,9 +70,9 @@ export default function Products() {
                                                 </div>
                                             </div>
                                         </div>
-                            {/*        </div>*/}
-                            {/*    </div>*/}
-                            {/*</div>*/}
+                                    </div>
+                                </div>
+                            </div>
                         </>
                     );
                 }) : null}

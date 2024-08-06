@@ -1,4 +1,3 @@
-// import { useState } from 'react'
 import './App.css'
 import {BrowserRouter, Route, Routes} from "react-router-dom";
 import Home from "./components/Home.jsx";
@@ -12,7 +11,6 @@ import Categories from "./components/Categories.jsx";
 import Adventure from "./components/Adventure.jsx";
 import Category01 from "./components/Category01.jsx";
 import Detail01 from "./components/Detail01.jsx";
-
 function App() {
 
 
