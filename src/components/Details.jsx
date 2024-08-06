@@ -3,7 +3,7 @@ import axios from "axios";
 import {Navigate, useParams} from "react-router-dom";
 import {Link} from "react-router-dom";
 import Head from "./Head.jsx";
-
+//
 export default function Details() {
 
    const [product, setProduct] = useState([]);

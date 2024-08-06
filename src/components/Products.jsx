@@ -2,7 +2,7 @@ import axios from "axios";
 import { useState, useEffect } from "react";
 import {Link} from "react-router-dom";
 import Head from "./Head.jsx";
-
+//
 
 export default function Products() {
 

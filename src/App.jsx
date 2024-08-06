@@ -11,6 +11,7 @@ import Categories from "./components/Categories.jsx";
 import Adventure from "./components/Adventure.jsx";
 import Category01 from "./components/Category01.jsx";
 import Detail01 from "./components/Detail01.jsx";
+//
 function App() {
 
 
